@@ -1,4 +1,4 @@
-package grails.taglib.views.sample
+package com.sample
 
 class UrlMappings {
 
