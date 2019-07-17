@@ -1,4 +1,4 @@
-package grails.taglib.views.sample
+package com.sample
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
