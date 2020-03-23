@@ -2,7 +2,7 @@
 Groovy and Grails based sample code for taglib and views understanding
 # Pre-requisite 
 
-    1. Grais v 3.2.11
+    1. Grails v 3.2.11
     2. Groovy v2.4.7 or v2.4.11
     3. Gradle v 3.4 or higher
     4. Oracle Database

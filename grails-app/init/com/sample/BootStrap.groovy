@@ -6,7 +6,7 @@ class BootStrap {
 
         println """
         **************************************************************
-                Boot Strap Grails TagLib-views Sample Application
+                BootStrap Grails TagLib-views Sample Application
         **************************************************************
         """
     }

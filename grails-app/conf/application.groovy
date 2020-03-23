@@ -140,3 +140,6 @@ server {
     port = 9090
     maxParameterCount = 200000
 }
+
+//enable or disable plugin with below config
+grails.plugin.console.enabled = true
