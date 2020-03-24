@@ -10,6 +10,8 @@ class Student {
     String gender
     String name
 
+    transient boolean isLoggable
+
     static constraints = {
         id nullable: false, generator: 'uuid'
         age nullable: true
